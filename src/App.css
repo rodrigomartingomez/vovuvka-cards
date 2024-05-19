@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Kitty face Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Kitty face Medium'), url('Kitty face.woff') format('woff');
+}
+
+h1 {
+    font-family: 'Kitty face Medium';
+    font-weight: 500;
+}
