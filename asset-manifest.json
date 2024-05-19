@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.76a1fb00.css",
-    "main.js": "/static/js/main.1a5a8163.js",
-    "static/js/453.98e3f9fd.chunk.js": "/static/js/453.98e3f9fd.chunk.js",
-    "static/media/pic8.png": "/static/media/pic8.de5943590728f5617535.png",
-    "static/media/pic10.png": "/static/media/pic10.102da7177559a5f27cf2.png",
-    "static/media/pic11.png": "/static/media/pic11.4c64564300871a1974ab.png",
-    "static/media/pic9.png": "/static/media/pic9.a56353328a58e2672509.png",
-    "static/media/pic3.png": "/static/media/pic3.64d008417e3127f5115f.png",
-    "static/media/pic6.png": "/static/media/pic6.3c14fa2bae51f67f9e2c.png",
-    "static/media/pic5.png": "/static/media/pic5.d6f22a5611a6a1b1987f.png",
-    "static/media/pic7.png": "/static/media/pic7.88e067a81124d6b1fd8e.png",
-    "static/media/pic1.png": "/static/media/pic1.cc2ee93fb525f9372456.png",
-    "static/media/pic4.png": "/static/media/pic4.74899f2e8063c067a154.png",
-    "static/media/Kitty face.woff": "/static/media/Kitty face.5f06baf7579863c2a4ed.woff",
-    "index.html": "/index.html",
-    "main.76a1fb00.css.map": "/static/css/main.76a1fb00.css.map",
-    "main.1a5a8163.js.map": "/static/js/main.1a5a8163.js.map",
-    "453.98e3f9fd.chunk.js.map": "/static/js/453.98e3f9fd.chunk.js.map"
+    "main.css": "/vovuvka-cards/static/css/main.aa1a40b0.css",
+    "main.js": "/vovuvka-cards/static/js/main.605bea92.js",
+    "static/js/453.98e3f9fd.chunk.js": "/vovuvka-cards/static/js/453.98e3f9fd.chunk.js",
+    "static/media/pic8.png": "/vovuvka-cards/static/media/pic8.de5943590728f5617535.png",
+    "static/media/pic10.png": "/vovuvka-cards/static/media/pic10.102da7177559a5f27cf2.png",
+    "static/media/pic11.png": "/vovuvka-cards/static/media/pic11.4c64564300871a1974ab.png",
+    "static/media/pic9.png": "/vovuvka-cards/static/media/pic9.a56353328a58e2672509.png",
+    "static/media/pic3.png": "/vovuvka-cards/static/media/pic3.64d008417e3127f5115f.png",
+    "static/media/pic6.png": "/vovuvka-cards/static/media/pic6.3c14fa2bae51f67f9e2c.png",
+    "static/media/pic5.png": "/vovuvka-cards/static/media/pic5.d6f22a5611a6a1b1987f.png",
+    "static/media/pic7.png": "/vovuvka-cards/static/media/pic7.88e067a81124d6b1fd8e.png",
+    "static/media/pic1.png": "/vovuvka-cards/static/media/pic1.cc2ee93fb525f9372456.png",
+    "static/media/pic4.png": "/vovuvka-cards/static/media/pic4.74899f2e8063c067a154.png",
+    "static/media/Kitty face.woff": "/vovuvka-cards/static/media/Kitty face.5f06baf7579863c2a4ed.woff",
+    "index.html": "/vovuvka-cards/index.html",
+    "main.aa1a40b0.css.map": "/vovuvka-cards/static/css/main.aa1a40b0.css.map",
+    "main.605bea92.js.map": "/vovuvka-cards/static/js/main.605bea92.js.map",
+    "453.98e3f9fd.chunk.js.map": "/vovuvka-cards/static/js/453.98e3f9fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.76a1fb00.css",
-    "static/js/main.1a5a8163.js"
+    "static/css/main.aa1a40b0.css",
+    "static/js/main.605bea92.js"
   ]
 }
